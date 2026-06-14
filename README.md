@@ -24,3 +24,18 @@ To run this project on Windows, you need to install **Python** and a packet capt
    Open Command Prompt (CMD) and run:
    ```bash
    pip install scapy
+``
+
+
+
+------------------
+
+
+
+
+**Disclaimer**
+  This tool is developed strictly for educational and security research purposes as part of the CodeAlpha Internship           program. Unauthorized network sniffing or capturing data on networks without explicit permission is illegal and unethical.
+
+Developed by:Ritika Karak
+
+Internship Role: Cyber Security Intern at CodeAlpha
